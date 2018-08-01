@@ -1,5 +1,5 @@
 # 🇺🇦 std::uk10n
-> Let's do Ukrainian Localization [uk10n = uk + l10n] for OpenSource Projects together
+Let's do Ukrainian Localization [uk10n = uk + l10n] for OpenSource Projects together
 
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -7,7 +7,7 @@
 # Table of Contents
 
 - [✍️ Notation](#%EF%B8%8F-notation)
-- [❤️ moz://a](#-moza)
+- [🖤 moz://a](#-moza)
 - [🚧 Developer Tools](#-developer-tools)
   - [👑 JetBrains](#-jetbrains)
     - [✍️ IntelliJ IDEA](#%EF%B8%8F-intellij-idea)
@@ -23,7 +23,7 @@
 * `repo` - project repository
 * `l10n` - project localization tool
 
-# ❤️ moz://a
+# 🖤 moz://a
 
 * 🦊 Firefox
 [`site`][firefox-site]
