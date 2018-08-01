@@ -1,5 +1,5 @@
 # 🇺🇦 std::uk10n
-> Lets do Ukrainian Localization [uk10n = uk + l10n] for OpenSource Projects together
+> Let's do Ukrainian Localization [uk10n = uk + l10n] for OpenSource Projects together
 
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
